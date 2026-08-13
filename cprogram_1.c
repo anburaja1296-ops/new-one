@@ -11,10 +11,10 @@ int main(){
     }
     
     if(fp==NULL){
-        printf("File Not created");
+        printf("File Not created !");
     }
     else {
-        printf("File Created Sucessfully");
+        printf("File Created Sucessfully !");
     }
     fclose(fp);
 }
